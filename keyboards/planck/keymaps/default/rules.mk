@@ -1,4 +1,4 @@
 SRC += muse.c
 
 STENO_ENABLE = yes
-STENO_PROTOCOL = geminipr
+STENO_PROTOCOL = all
